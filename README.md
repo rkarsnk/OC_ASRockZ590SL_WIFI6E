@@ -1,2 +1,1 @@
-# OC_ASRockZ590SL_WIFI6E
-OpenCore config for ASRock Z590 SteelLegend WIFI 6E
+# OpenCore config for ASRock Z590 Steel Legend WIFI 6E
